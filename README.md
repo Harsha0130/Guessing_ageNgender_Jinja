@@ -2,7 +2,7 @@
 A Flask web app that predicts age and gender based on a person's name using the Agify.io and Genderize.io APIs. The app displays the results using Jinja templating.
 
 Features:
-Enter a name to get predicted age and gender.
+Predicts age and gender by entering a name directly in the URL (/name).
 Uses Agify.io for age prediction and Genderize.io for gender prediction.
 Displays results dynamically with Jinja templates.
 
